@@ -4,7 +4,6 @@
 
 
 - 📚 I’m currently studying, **Computer Science at UFES**
-- ⚡ I’m looking for help with back-end, I love front-end s2
-- 📫 How to reach me: *iasminimp7@gmail.com*
+- 📫 How to reach me: *victoor1080@gmail.com*
 - 🤷🏾‍♂️ Pronouns: He/His
 - 📍 Brazil, ES
